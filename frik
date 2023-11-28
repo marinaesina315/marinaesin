@@ -1,0 +1,8 @@
+'moonbeam'      : '0xb0bea3bB2d6EDDD2014952ABd744660bAeF9747d',
+    'base'          : '0x9415AD63EdF2e0de7D8B9D8FeE4b939dd1e52F2C',
+    'scroll'        : '0xB074f8D92b930D3415DA6bA80F6D38f69ee4B9cf',
+    'zora'          : '0x1fe2c567169d39CCc5299727FfAC96362b2Ab90E',
+    'linea'         : '0x5B209E7c81DEaad0ffb8b76b696dBb4633A318CD',
+    'metis'         : '0x1b07F1f4F860e72c9367e718a30e38130114AD22',
+    'mantle'        : '0x4F1C698e5cA32b28030E9d9F17C164F27aB5D866',
+}
